@@ -5,12 +5,16 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
+
+/** TODO
+ * Set the assmebly properties
+ **/
 [assembly: AssemblyTitle("IMPRINTPluginTemplate")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("U.S. Army")]
+[assembly: AssemblyCompany("Assembly Company")]
 [assembly: AssemblyProduct("IMPRINTPluginTemplate")]
-[assembly: AssemblyCopyright("Copyright © U.S. Army 2012")]
+[assembly: AssemblyCopyright("Copyright © IMPRINTPluginWriter 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
